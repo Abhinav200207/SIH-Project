@@ -52,9 +52,14 @@ by tracking your present location using mobile GPS.# SIH-DK735
 ## Contributors
 
 Rahul Kumar
+<br>
 Medha Tripathi
+<br>
 Mohd Siddiq
+<br>
 Utkarsh Singh
+<br>
 Harshit Singh
+<br>
 Abhinav Kumar Maurya
 
