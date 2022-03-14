@@ -48,4 +48,13 @@ You need mongodb access code which you can create from mongodb atlas.
 This project provides the real time update regarding bed count, ICU count,
 Oxygen Cylinder Count and Blood Bank info of all near by hospital around you
 by tracking your present location using mobile GPS.# SIH-DK735
-# SIH-Project
+
+## Contributors
+
+Rahul Kumar
+Medha Tripathi
+Mohd Siddiq
+Utkarsh Singh
+Harshit Singh
+Abhinav Kumar Maurya
+
